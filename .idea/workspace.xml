@@ -24,10 +24,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/vrep/BuscaAasterisco.java">
+        <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaAestrela.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-end-line="90" selection-end-column="1" />
+              <folding>
+                <element signature="e#1052#1059#0" expanded="true" />
+                <element signature="e#2318#2331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaGulosa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#864#871#0" expanded="true" />
+                <element signature="e#2332#2345#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,6 +60,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/vrep/BuscaAasterisco.java" />
+        <option value="$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaAasterisco.java" />
+        <option value="$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaGulosa.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -125,6 +151,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -154,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558649343784</updated>
-      <workItem from="1558649345402" duration="260000" />
+      <workItem from="1558649345402" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260000" />
+    <option name="totallyTimeSpent" value="687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -199,6 +226,9 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/vrep/BuscaAasterisco.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -206,10 +236,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/vrep/BuscaAasterisco.java">
+    <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaGulosa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#864#871#0" expanded="true" />
+            <element signature="e#2332#2345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto3_busca/java/src/br/insper/robot19/BuscaAestrela.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-end-line="90" selection-end-column="1" />
+          <folding>
+            <element signature="e#1052#1059#0" expanded="true" />
+            <element signature="e#2318#2331#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

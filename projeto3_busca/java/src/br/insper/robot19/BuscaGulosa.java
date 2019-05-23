@@ -1,6 +1,8 @@
 package br.insper.robot19;
 
-import java.util.*;
+public class BuscaGulosapackage br.insper.robot19;
+
+        import java.util.*;
 
 
 /**
@@ -89,4 +91,5 @@ public class BuscaGulosa{
         }
         return caminho.toArray(new RobotAction[caminho.size()]);
     }
+} {
 }
